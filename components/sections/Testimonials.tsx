@@ -85,7 +85,7 @@ export default function Testimonials() {
             What Our Clients Say
           </h2>
           <p className="mt-4 text-xl text-gray-600 dark:text-gray-300 max-w-3xl mx-auto">
-            Don't just take our word for it - hear from our satisfied clients
+            Dont just take our word for it  hear from our satisfied clients
           </p>
         </motion.div>
 

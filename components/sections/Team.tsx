@@ -163,7 +163,7 @@ export default function Team() {
               Want to Join Our Team?
             </h3>
             <p className="text-gray-600 dark:text-gray-300 mb-6 max-w-2xl">
-              We're always looking for talented individuals who are passionate about web development
+              We are always looking for talented individuals who are passionate about web development
             </p>
             <a
               href="#contact"

@@ -148,7 +148,7 @@ export default function Services() {
               Ready to Start Your Project?
             </h3>
             <p className="text-gray-600 dark:text-gray-300 mb-6 max-w-2xl">
-              Let's discuss how we can help bring your ideas to life with our expertise
+              Lets discuss how we can help bring your ideas to life with our expertise
             </p>
             <a
               href="#contact"
