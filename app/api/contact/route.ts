@@ -1,5 +1,6 @@
 import { NextRequest, NextResponse } from 'next/server'
 import nodemailer from 'nodemailer'
+export const runtime = "nodejs";
 import { ContactFormData, ApiResponse } from '@/types'
 
 // Rate limiting storage (in production, use Redis or similar)
